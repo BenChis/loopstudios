@@ -1,2 +1,3 @@
 # loopstudios
-my solution for loopstudios from frontendmentro
+my solution for loopstudios from frontendmentor
+
