@@ -502,7 +502,6 @@ button:hover{
         background-image:url(./images/desktop/image-deep-earth.jpg);
         height: 65vh;
         margin: 0;
-       
     }
     
     .gridItem2 {
@@ -545,6 +544,10 @@ button:hover{
         background-image:url(./images/desktop/image-fisheye.jpg);
         height: 65vh;
     }
+    .grid a {
+        margin:0;
+    }
+
 
     button {
         position:absolute;
